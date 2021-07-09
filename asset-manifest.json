@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stpicalculator/static/css/main.21f4bc7b.chunk.css",
+    "main.js": "/stpicalculator/static/js/main.083befce.chunk.js",
+    "main.js.map": "/stpicalculator/static/js/main.083befce.chunk.js.map",
+    "runtime-main.js": "/stpicalculator/static/js/runtime-main.f251d5cf.js",
+    "runtime-main.js.map": "/stpicalculator/static/js/runtime-main.f251d5cf.js.map",
+    "static/js/2.cbc59524.chunk.js": "/stpicalculator/static/js/2.cbc59524.chunk.js",
+    "static/js/2.cbc59524.chunk.js.map": "/stpicalculator/static/js/2.cbc59524.chunk.js.map",
+    "static/js/3.7565a0fe.chunk.js": "/stpicalculator/static/js/3.7565a0fe.chunk.js",
+    "static/js/3.7565a0fe.chunk.js.map": "/stpicalculator/static/js/3.7565a0fe.chunk.js.map",
+    "index.html": "/stpicalculator/index.html",
+    "static/css/main.21f4bc7b.chunk.css.map": "/stpicalculator/static/css/main.21f4bc7b.chunk.css.map",
+    "static/js/2.cbc59524.chunk.js.LICENSE.txt": "/stpicalculator/static/js/2.cbc59524.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f251d5cf.js",
+    "static/js/2.cbc59524.chunk.js",
+    "static/css/main.21f4bc7b.chunk.css",
+    "static/js/main.083befce.chunk.js"
+  ]
+}
